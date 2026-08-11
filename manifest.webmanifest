@@ -1,0 +1,16 @@
+{
+  "name": "Trust Main Wallet",
+  "short_name": "Trust",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#191b1a",
+  "theme_color": "#191b1a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
